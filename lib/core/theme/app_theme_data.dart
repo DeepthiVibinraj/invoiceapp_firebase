@@ -108,7 +108,7 @@ class AppThemeData {
         todayForegroundColor:
             MaterialStateProperty.all<Color>(colorScheme.surface),
       ),
-      dialogTheme: DialogTheme(
+      dialogTheme: DialogThemeData(
         backgroundColor: colorScheme.primary,
         titleTextStyle:
             _textTheme.titleLarge?.copyWith(color: colorScheme.secondary),

@@ -10,24 +10,24 @@ Admin Controls
 
 - Add, update, delete, and search staff, courses, vendors, and invoices
 
-   <img src="screenshots/home.jpg" alt="Dashboard" width="300" height="600"/>
+   <img src="screenshots/home.jpg" alt="Dashboard" width="200" height="350"/>
 
-   <img src="screenshots/staff.jpg" alt="Staffs" width="300" height="600"/>
+   <img src="screenshots/staff.jpg" alt="Staffs" width="200" height="350"/>
 
 Invoice PDF Generation
 
 - Dynamically generate multi-page PDF invoices
 - Allow vendors to receive and store these invoices easily
 
-  <img src="screenshots/invoices.jpg" alt="Dashboard" width="300" height="600"/>
+  <img src="screenshots/invoices.jpg" alt="Dashboard" width="200" height="350"/>
 
-  <img src="screenshots/pdf.jpg" alt="Dashboard" width="300" height="600"/>
+  <img src="screenshots/pdf.jpg" alt="Dashboard" width="200" height="350"/>
 
   User Authentication
 
 - Login and registration using Firebase Authentication (Email & Password)
 
-  <img src="screenshots/signup.jpg" alt="Dashboard" width="300" height="600"/>
+  <img src="screenshots/signup.jpg" alt="Dashboard" width="200" height="350"/>
 
 Real-Time Database
 
